@@ -1,0 +1,15 @@
+	1	Computing Fibonacci numbers.
+	2	Largest Sum continuous Sub-Array problem.
+	3	Knapsack problem.
+	4	Text Justification.
+	5	Sequence alignment or edit distance.
+	6	Longest Common Sub-sequence (LCS).
+	7	Longest Increasing Sub-sequence (LIS).
+	8	Maximum Weighted Independent Sets in Path Graphs.
+	9	finding Optimal Binary Search Tree.
+	10	Bellman-Ford algorithm for finding shortest path in a graph.
+	11	Matrix-Chain Multiplication.
+	12	Cutting rod problem
+	13	Coin change problem
+
+Have to do all these problems in Java
